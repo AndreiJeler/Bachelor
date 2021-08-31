@@ -1,0 +1,5 @@
+python-dotenv==0.17.1
+mongoengine==0.23.1
+PyJWT==2.1.0
+Flask==2.0.0
+dnspython==2.1.0
